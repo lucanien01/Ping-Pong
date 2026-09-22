@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GameManager
+comment1.params=
+comment1.target=GameManager()
+comment2.params=min\ max
+comment2.target=int\ getRandomNumber(int,\ int)
+numComments=3
